@@ -34,7 +34,7 @@ In this assignment, we'll be extending our Flicks app to allow users to get more
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/Opzp4un.gifv" width=250><br>
+<img src="https://github.com/park612/Flix/blob/master/flix2.gif?raw=true" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
