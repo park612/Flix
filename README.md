@@ -33,7 +33,7 @@ In this assignment, we'll be extending our Flicks app to allow users to get more
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-<img src="https://i.imgur.com/fbxxw1d.gif" width=250><br>
+<img src="https://i.imgur.com/Opzp4un.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
